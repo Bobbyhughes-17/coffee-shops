@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    background-color: rgb(124, 5, 235);
+}
+
+
+
+.pageHeader {
+    margin: 10px;
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.shop {
+    flex-basis: 20%;
+    border: 1px dotted black;
+}
